@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+p {
+    text-align: left;
+    text-decoration: underline;
+    color: black;
+    font-size: 3px;
+    line-height: 33px;
+    text-transform: uppercase;
+}
+
+#one {
+    font-family: fantasy;
+    font-size: x-large;
+}

@@ -1,0 +1,21 @@
+ /* div {
+    height: 100px;
+    width: 200px;
+    background-color: black; 
+    border-width: 3px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 25px;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}  */
+
+div {
+    background-color: purple;
+    display: inline;
+}
+button {
+    background-color: brown;
+    display: block;
+}
